@@ -74,7 +74,7 @@ export default function LandingPage() {
           href: "#contact",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/geometric-modern-building-black-white_250224-333.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/geometric-modern-building-black-white_250224-333.jpg?_wi=1"
       imageAlt="Architecture du Musée des Civilisations noires"
       mediaAnimation="slide-up"
       avatars={[
@@ -149,7 +149,7 @@ export default function LandingPage() {
           name: "Art Statuaire Antique",
           price: "Accès libre",
           variant: "Permanent",
-          imageSrc: "http://img.b2bpic.net/free-photo/elegant-mask-with-gold-black-paint_23-2148050268.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/elegant-mask-with-gold-black-paint_23-2148050268.jpg?_wi=1",
         },
         {
           id: "p2",
@@ -207,7 +207,7 @@ export default function LandingPage() {
           phoneTwo: {
             imageSrc: "http://img.b2bpic.net/free-photo/flamenco-dancer-studio_23-2149287126.jpg",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/geometric-modern-building-black-white_250224-333.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/geometric-modern-building-black-white_250224-333.jpg?_wi=2",
           imageAlt: "modern museum gallery walkway",
         },
         {
@@ -231,7 +231,7 @@ export default function LandingPage() {
           phoneTwo: {
             imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-smiley-women-rooftop_23-2149223629.jpg",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/elegant-mask-with-gold-black-paint_23-2148050268.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/elegant-mask-with-gold-black-paint_23-2148050268.jpg?_wi=2",
           imageAlt: "modern museum gallery walkway",
         },
       ]}
